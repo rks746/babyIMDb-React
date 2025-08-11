@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=G6D9cBaLViA
 
 ## Features 🚀
 - Search for movies in the search bar.
-- View poster and release year for each search result.
+- View posters, movie titles and release years for each search result.
 - Add or remove movies from Favourites.
 
 ---
@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=G6D9cBaLViA
 ## Screenshots 📷
 
 ### Home Page
-![Home Page](pic1.png)
+![Home Page](frontend/assets/pic1.png)
 
 ### Favorites Page
-![Favorites Page](pic2.png)
+![Favorites Page](frontend/assets/pic2.png)
