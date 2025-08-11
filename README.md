@@ -11,3 +11,13 @@ https://www.youtube.com/watch?v=G6D9cBaLViA
 - Search for movies in the search bar.
 - View poster and release year for each search result.
 - Add or remove movies from Favourites.
+
+---
+
+## Screenshots 📷
+
+### Home Page
+![Home Page](pic1.png)
+
+### Favorites Page
+![Favorites Page](pic2.png)
