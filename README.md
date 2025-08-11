@@ -1,4 +1,4 @@
-# Search Movies 
+# babyIMDb 🍿🎞️📽️🎬
 
 This is my first **React** project: a simple movie searching website that runs locally.  
 I built it by following a FreeCodeCamp YouTube tutorial by **Tech With Tim**.
