@@ -8,8 +8,22 @@
   margin-bottom: 2rem;
   text-align: center;
   font-size: 2.5rem;
-  color: #ffffff;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  transition: color 0.3s ease;
+}
+
+/* Light mode */
+@media (prefers-color-scheme: light) {
+  .favorites h2 {
+    color: #111; /* dark text for light backgrounds */
+  }
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+  .favorites h2 {
+    color: #fff; /* light text for dark backgrounds */
+  }
 }
 
 .favorites-empty {
